@@ -1,0 +1,3 @@
+webscreenshotter
+opencv-python 
+pyzbar

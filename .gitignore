@@ -1,0 +1,4 @@
+.screencaps/
+*.png
+.pypirc
+*.json
