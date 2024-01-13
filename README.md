@@ -1,3 +1,5 @@
+A Python script to demo the [webscreenshotter](https://github.com/0x4f53/webscreenshotter) pip package.
+
 # Usage
 
 1. Download all dependencies
